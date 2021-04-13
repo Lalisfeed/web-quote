@@ -1,5 +1,5 @@
 {
-  "name": "doc-sec",
+  "name": "doxec",
   "version": "1.0.0",
   "description": "Avoid rewriting JSDOM",
   "main": "index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lalisfeed/doc-sec.git"
+    "url": "git+https://github.com/Lalisfeed/doxec.git"
   },
   "keywords": [
-    "doc-sec",
+    "doxec",
     "DOM",
     "Js-dom",
     "Javascript"
@@ -19,7 +19,7 @@
   "author": "Lali Akhil Raj",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Lalisfeed/doc-sec/issues"
+    "url": "https://github.com/Lalisfeed/doxec/issues"
   },
-  "homepage": "https://github.com/Lalisfeed/doc-sec#readme"
+  "homepage": "https://github.com/Lalisfeed/doxec#readme"
 }

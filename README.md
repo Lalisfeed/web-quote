@@ -1,13 +1,13 @@
-# doc-sec
+# doxec
 > Avoid rewriting JSDOM
 
-[![npm version](https://img.shields.io/npm/v/doc-sec.svg?style=flat-square)](https://www.npmjs.org/package/doc-sec) 
-[![install size](https://packagephobia.com/badge?p=doc-sec)](https://packagephobia.com/result?p=doc-sec) 
-[![npm downloads](https://img.shields.io/npm/dt/doc-sec.svg?style=flat-square)](http://npm-stat.com/charts.html?package=doc-sec) 
+[![npm version](https://img.shields.io/npm/v/doxec.svg?style=flat-square)](https://www.npmjs.org/package/doxec) 
+[![install size](https://packagephobia.com/badge?p=doxec)](https://packagephobia.com/result?p=doxec) 
+[![npm downloads](https://img.shields.io/npm/dt/doxec.svg?style=flat-square)](http://npm-stat.com/charts.html?package=doxec) 
 
 ## Install
 ```
-npm i doc-sec
+npm i doxec
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm i doc-sec
 * Import the Functions
 
 ```Javascript
-import { Select, SelectAll } from 'doc-sec'
+import { Select, SelectAll } from 'doxec'
 ```
 
 * Write like this
