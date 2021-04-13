@@ -1,0 +1,25 @@
+{
+  "name": "doc-sec",
+  "version": "1.0.0",
+  "description": "Avoid rewriting JSDOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'I dont like writing document.qs'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalisfeed/doc-sec.git"
+  },
+  "keywords": [
+    "doc-sec",
+    "DOM",
+    "Js-dom",
+    "Javascript"
+  ],
+  "author": "Lali Akhil Raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lalisfeed/doc-sec/issues"
+  },
+  "homepage": "https://github.com/Lalisfeed/doc-sec#readme"
+}
